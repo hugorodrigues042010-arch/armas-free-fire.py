@@ -1,0 +1,39 @@
+AK-47 (Fuzil de Assalto)
+
+M4A1 (Fuzil de Assalto)
+
+SCAR (Fuzil de Assalto)
+
+Groza (Fuzil de Assalto)
+
+FAMAS (Fuzil de Assalto)
+
+XM8 (Fuzil de Assalto)
+
+AUG (Fuzil de Assalto)
+
+MP40 (Submetralhadora)
+
+P90 (Submetralhadora)
+
+UMP (Submetralhadora)
+
+Thompson (Submetralhadora)
+
+Vector (Submetralhadora)
+
+AWM (Sniper)
+
+Kar98k (Sniper)
+
+M82B (Sniper)
+
+M1887 (Espingarda)
+
+M1014 (Espingarda)
+
+SPAS12 (Espingarda)
+
+Desert Eagle (Pistola)
+
+Carapina (Atiradeira)
